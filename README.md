@@ -3,6 +3,6 @@
 
 原项目地址：
 
-* [https://github.com/wengliang086/ImagePicker](https://github.com/wengliang086/ImagePicker)
+* [https://github.com/jeasonlzy0216/ImagePicker](https://github.com/jeasonlzy0216/ImagePicker)
 
 
